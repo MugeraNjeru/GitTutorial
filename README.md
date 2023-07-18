@@ -1,2 +1,3 @@
 # GitTutorial
-Tutorial
+Learnint time
+We are cruising nicely
